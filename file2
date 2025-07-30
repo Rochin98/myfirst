@@ -1,0 +1,19 @@
+Git is a distributed version control system that allows multiple developers to work on a project simultaneously.
+
+It helps track changes, revert to previous versions, and collaborate efficiently across teams.
+
+The basic operations in Git include clone, add, commit, push, and pull.
+
+Branching in Git allows you to create isolated environments for features, bug fixes, or experiments.
+
+Git commit history is linear, but it can diverge with branching and merging.
+
+Pull requests in GitHub facilitate code review before merging changes into the main codebase.
+
+Git enables you to keep track of file modifications and restore lost data with ease.
+
+Git repositories are hosted locally on your machine or remotely on platforms like GitHub or GitLab.
+
+Good Git workflows include frequent commits, clear commit messages, and regular pushes to remote repositories.
+
+CI/CD tools like Jenkins integrate with Git to automate testing, building, and deployment of code.
